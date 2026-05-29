@@ -173,6 +173,8 @@ async function downloadSelected(selections) {
   return { saved };
 }
 
+if (!window.__transcriptDLLoaded) {
+window.__transcriptDLLoaded = true;
 chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
   if (msg.type === 'SCAN') {
     try {
@@ -190,3 +192,4 @@ chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
     return true; // async
   }
 });
+}
