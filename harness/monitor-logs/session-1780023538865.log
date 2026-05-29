@@ -1,0 +1,251 @@
+[2026-05-29 02:58:58.865] Log file: /Users/hayden/coderepos_mac_mini/godel_transcript/harness/monitor-logs/session-1780023538865.log
+[2026-05-29 02:58:59.251] Connected: https://app.godelterminal.com/
+[2026-05-29 02:58:59.260] [browser] [monitor] observers installed
+[2026-05-29 02:58:59.265] [state] no hubs found
+[2026-05-29 02:58:59.423] [screenshot] → 001-initial.png
+[2026-05-29 02:58:59.425] 
+[2026-05-29 02:58:59.425] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-05-29 02:58:59.425]   Monitor running. Click through the page normally.  
+[2026-05-29 02:58:59.425]   Every click → screenshot + DOM dump + state log.   
+[2026-05-29 02:58:59.425]   All output → /Users/hayden/coderepos_mac_mini/godel_transcript/harness/monitor-logs/
+[2026-05-29 02:58:59.425]   Ctrl+C to stop.
+[2026-05-29 02:58:59.425] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2026-05-29 02:59:02.069] [browser] [DOM] -DIV.flex.absolute.inset-0.items-center.justify-center.z-[10].bg-[#121212]
+[2026-05-29 02:59:04.443] [state] no hubs found
+[2026-05-29 02:59:09.101] [browser] [CLICK] DIV#98688-container.bg-[#121212].h-full.flex.flex-col | "ResearchBetaNo Watchlist SelectedAll Watchlistsquantumcrypto"
+[2026-05-29 02:59:09.352] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+592 more)
+[2026-05-29 02:59:09.436] [state] no hubs found
+[2026-05-29 02:59:09.880] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+292 more)
+[2026-05-29 02:59:10.044] [screenshot] → 002-click.png
+[2026-05-29 02:59:10.046] [state] no hubs found
+[2026-05-29 02:59:10.394] [browser] [CLICK] DIV | "ResearchBetaNo Watchlist SelectedAll Watchlistsquantumcrypto"
+[2026-05-29 02:59:10.645] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+292 more)
+[2026-05-29 02:59:12.335] [browser] [DOM] +DIV.flex.pb-1.text-[#eaeaea].flex-col.fixed.z-10.w-[750px].bg-[#151515].overflow-x-hidden
+[2026-05-29 02:59:14.437] [state] no hubs found
+[2026-05-29 02:59:16.917] [browser] [DOM] -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.cursor-pointer.hover:bg-[#333333].relative | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.cursor-pointer.hover:bg-[#333333].relative | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.cursor-pointer.hover:bg-[#333333].relative | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.cursor-pointer.hover:bg-[#333333].relative | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.cursor-pointer.hover:bg-[#333333].relative | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.cursor-pointer.hover:bg-[#333333].relative | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.cursor-pointer.hover:bg-[#333333].relative | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.cursor-pointer.hover:bg-[#333333].relative (+112 more)
+[2026-05-29 02:59:18.127] [browser] [DOM] +DIV.w-full.py-1.px-2.mb-1.text-[#eaeaea].border-t.border-t-[#333333].border-b.border-b-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] (+87 more)
+[2026-05-29 02:59:18.784] [browser] [DOM] -DIV.w-full.py-1.px-2.mb-1.text-[#eaeaea].border-t.border-t-[#333333].border-b.border-b-[#333333] | -DIV.bg-[#333333].flex.gap-x-2.pl-2.py-1.items-center.cursor-pointer.hover:bg-[#333333].relative | -DIV.w-full.py-1.px-2.mb-1.text-[#eaeaea].border-t.border-t-[#333333].border-b.border-b-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] (+47 more)
+[2026-05-29 02:59:19.086] [browser] [DOM] -DIV.w-full.py-1.px-2.mb-1.text-[#eaeaea].border-t.border-t-[#333333].border-b.border-b-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | -DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333]
+[2026-05-29 02:59:19.435] [state] no hubs found
+[2026-05-29 02:59:19.631] [browser] [DOM] +DIV.w-full.py-1.px-2.mb-1.text-[#eaeaea].border-t.border-t-[#333333].border-b.border-b-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] | +DIV.bg-transparent.flex.gap-x-2.pl-2.py-1.items-center.relative.cursor-pointer.hover:bg-[#333333] (+19 more)
+[2026-05-29 02:59:21.458] [browser] [DOM] -DIV.flex.pb-1.text-[#eaeaea].flex-col.fixed.z-10.w-[750px].bg-[#151515].overflow-x-hidden | -DIV. | +DIV#98689-window.resize.inline-block.absolute | -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. (+320 more)
+[2026-05-29 02:59:21.910] [browser] [DOM] -DIV.text-sm.absolute.bottom-0.left-0.right-0.h-[30px].w-full.bg-[#333333].hover:bg-white.hover:text-black.cursor-pointer.flex.items-center.justify-center | +DIV.text-sm.absolute.bottom-0.left-0.right-0.h-[30px].w-full.bg-[#333333].hover:bg-white.hover:text-black.cursor-pointer.flex.items-center.justify-center | -DIV.absolute.inset-0.z-[99].flex.items-center.justify-center | +DIV.injectable-html-n.lexical | +DIV.w-16.h-16.flex-shrink-0.mr-2 | +DIV.px-2.mb-[4px].text-left.truncate
+[2026-05-29 02:59:24.440] [state] 1 hub(s) open:
+[2026-05-29 02:59:24.440]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:24.440]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:24.440]     content:  "Amazon.com, Inc (AMZN)
+     Q1  2026 Earnings Conference Call
+    April 29, 2026 • 09:30
+    Final Transcript
+
+         "
+[2026-05-29 02:59:24.440]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:24.672] [browser] [CLICK] DIV.text-sm.flex-grow.text-right | "2/5/2026"
+[2026-05-29 02:59:24.932] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+296 more)
+[2026-05-29 02:59:25.216] [browser] [DOM] -DIV.text-sm.absolute.bottom-0.left-0.right-0.h-[30px].w-full.bg-[#333333].hover:bg-white.hover:text-black.cursor-pointer.flex.items-center.justify-center | +DIV.text-sm.absolute.bottom-0.left-0.right-0.h-[30px].w-full.bg-[#333333].hover:bg-white.hover:text-black.cursor-pointer.flex.items-center.justify-center | -DIV.absolute.inset-0.z-[99].flex.items-center.justify-center | +DIV.injectable-html-n.lexical
+[2026-05-29 02:59:25.451] [browser] [CLICK] DIV.text-sm.flex-grow.text-right | "10/30/2025"
+[2026-05-29 02:59:25.620] [screenshot] → 003-click.png
+[2026-05-29 02:59:25.623] [state] 1 hub(s) open:
+[2026-05-29 02:59:25.623]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:25.623]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:25.623]     content:  "(empty)"
+[2026-05-29 02:59:25.623]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:25.628] [dom-dump] hub#98689-container → 003-click-hub-98689-container.html (11353 chars)
+[2026-05-29 02:59:26.021] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+906 more)
+[2026-05-29 02:59:26.112] [browser] [CLICK] DIV.text-sm.flex-grow.text-right | "7/31/2025"
+[2026-05-29 02:59:26.606] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+300 more)
+[2026-05-29 02:59:27.595] [browser] [CLICK] DIV.text-sm.flex-grow.text-right | "5/1/2025"
+[2026-05-29 02:59:28.137] [browser] [CLICK] DIV.text-sm.flex-grow.text-right | "2/6/2025"
+[2026-05-29 02:59:28.552] [screenshot] → 004-click.png
+[2026-05-29 02:59:28.554] [state] 1 hub(s) open:
+[2026-05-29 02:59:28.555]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:28.555]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:28.555]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 02:59:28.555]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:28.565] [dom-dump] hub#98689-container → 004-click-hub-98689-container.html (210464 chars)
+[2026-05-29 02:59:28.668] [browser] [CLICK] DIV.text-sm.flex-grow.text-right | "10/31/2024"
+[2026-05-29 02:59:29.194] [browser] [CLICK] DIV.text-sm.flex-grow.text-right | "8/1/2024"
+[2026-05-29 02:59:29.435] [state] 1 hub(s) open:
+[2026-05-29 02:59:29.435]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:29.435]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:29.435]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 02:59:29.435]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:29.647] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+1224 more)
+[2026-05-29 02:59:29.793] [browser] [CLICK] DIV.text-sm.flex-grow.text-right | "4/30/2024"
+[2026-05-29 02:59:30.046] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+296 more)
+[2026-05-29 02:59:30.169] [screenshot] → 005-click.png
+[2026-05-29 02:59:30.171] [state] 1 hub(s) open:
+[2026-05-29 02:59:30.171]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:30.171]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:30.171]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 02:59:30.171]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:30.179] [dom-dump] hub#98689-container → 005-click-hub-98689-container.html (221251 chars)
+[2026-05-29 02:59:30.300] [browser] [DOM] -DIV.text-sm.absolute.bottom-0.left-0.right-0.h-[30px].w-full.bg-[#333333].hover:bg-white.hover:text-black.cursor-pointer.flex.items-center.justify-center | +DIV.text-sm.absolute.bottom-0.left-0.right-0.h-[30px].w-full.bg-[#333333].hover:bg-white.hover:text-black.cursor-pointer.flex.items-center.justify-center | -DIV.absolute.inset-0.z-[99].flex.items-center.justify-center | +DIV.injectable-html-n.lexical
+[2026-05-29 02:59:30.454] [browser] [CLICK] DIV.text-sm.flex-grow.text-right | "2/1/2024"
+[2026-05-29 02:59:30.707] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+296 more)
+[2026-05-29 02:59:30.998] [browser] [DOM] -DIV.text-sm.absolute.bottom-0.left-0.right-0.h-[30px].w-full.bg-[#333333].hover:bg-white.hover:text-black.cursor-pointer.flex.items-center.justify-center | +DIV.text-sm.absolute.bottom-0.left-0.right-0.h-[30px].w-full.bg-[#333333].hover:bg-white.hover:text-black.cursor-pointer.flex.items-center.justify-center | -DIV.absolute.inset-0.z-[99].flex.items-center.justify-center | +DIV.injectable-html-n.lexical
+[2026-05-29 02:59:34.442] [state] 1 hub(s) open:
+[2026-05-29 02:59:34.442]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:34.442]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:34.442]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 02:59:34.442]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:39.441] [state] 1 hub(s) open:
+[2026-05-29 02:59:39.442]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:39.442]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:39.442]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 02:59:39.442]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:39.813] [browser] [DOM] -DIV.border-b.border-b-[#444444] | -DIV. | +DIV.border-b.border-b-[#444444] | +DIV.
+[2026-05-29 02:59:42.876] [browser] [DOM] -DIV.border-b.border-b-[#444444] | -DIV. | +DIV.border-b.border-b-[#444444] | +DIV.
+[2026-05-29 02:59:43.878] [browser] [DOM] -DIV.border-b.border-b-[#444444] | -DIV. | +DIV.border-b.border-b-[#444444] | +DIV.
+[2026-05-29 02:59:44.440] [state] 1 hub(s) open:
+[2026-05-29 02:59:44.440]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:44.440]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:44.440]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 02:59:44.440]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:48.273] [browser] [DOM] -DIV.border-b.border-b-[#444444] | -DIV. | +DIV.border-b.border-b-[#444444] | +DIV.
+[2026-05-29 02:59:49.442] [state] 1 hub(s) open:
+[2026-05-29 02:59:49.442]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:49.442]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:49.442]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 02:59:49.442]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:51.131] [browser] [DOM] -DIV.border-b.border-b-[#444444] | -DIV. | +DIV.border-b.border-b-[#444444] | +DIV.
+[2026-05-29 02:59:54.445] [state] 1 hub(s) open:
+[2026-05-29 02:59:54.445]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:54.445]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:54.445]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 02:59:54.445]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 02:59:56.020] [browser] [DOM] -SPAN.anticon.anticon-retweet | +SPAN.anticon.anticon-loading.anticon-spin | -SPAN.anticon.anticon-retweet | +SPAN.anticon.anticon-loading.anticon-spin | +DIV.w-full.flex.justify-center.text-center.pt-12 | -svg. | -defs. | -linearGradient#line-gradient. (+602 more)
+[2026-05-29 02:59:59.449] [state] 1 hub(s) open:
+[2026-05-29 02:59:59.449]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 02:59:59.449]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 02:59:59.449]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 02:59:59.449]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 03:00:04.446] [state] 1 hub(s) open:
+[2026-05-29 03:00:04.446]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 03:00:04.446]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 03:00:04.446]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 03:00:04.446]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 03:00:09.448] [state] 1 hub(s) open:
+[2026-05-29 03:00:09.448]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 03:00:09.448]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 03:00:09.448]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 03:00:09.448]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 03:00:14.452] [state] 1 hub(s) open:
+[2026-05-29 03:00:14.452]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 03:00:14.452]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 03:00:14.452]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 03:00:14.452]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 03:00:19.450] [state] 1 hub(s) open:
+[2026-05-29 03:00:19.450]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 03:00:19.450]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 03:00:19.450]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 03:00:19.450]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 03:00:24.452] [state] 1 hub(s) open:
+[2026-05-29 03:00:24.452]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 03:00:24.452]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 03:00:24.452]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 03:00:24.452]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 03:00:26.026] [browser] [DOM] -SPAN.anticon.anticon-retweet | +SPAN.anticon.anticon-loading.anticon-spin | +DIV.w-full.flex.justify-center.text-center.pt-12 | -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. (+598 more)
+[2026-05-29 03:00:29.452] [state] 1 hub(s) open:
+[2026-05-29 03:00:29.452]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 03:00:29.452]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 03:00:29.453]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 03:00:29.453]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 03:00:29.747] [browser] [DOM] -DIV.border-b.border-b-[#444444] | -DIV. | +DIV.border-b.border-b-[#444444] | +DIV.
+[2026-05-29 03:00:34.450] [state] 1 hub(s) open:
+[2026-05-29 03:00:34.451]   #98689-container  ticker=AMZN US  rows=10
+[2026-05-29 03:00:34.451]     firstRow: "Q1 20264/29/2026"
+[2026-05-29 03:00:34.451]     content:  ".injectable-html-n .header-sec {
+    display: flex;
+}
+.injectable-html-n .header-sec h6{
+    margin: 0;
+    font-size: 1"
+[2026-05-29 03:00:34.451]     close candidates: [{"tag":"SPAN","text":"","cls":"anticon.anticon-close","aria":"close"}]
+[2026-05-29 03:00:36.320] [browser] [CLICK] path | ""
+[2026-05-29 03:00:36.603] [browser] [DOM] -svg. | -defs. | -linearGradient#line-gradient. | -stop. | -stop. | -path. | -svg. | -defs. (+593 more)
+[2026-05-29 03:00:37.262] [screenshot] → 006-click.png
+[2026-05-29 03:00:37.268] [state] no hubs found
+[2026-05-29 03:00:39.454] [state] no hubs found
+[2026-05-29 03:00:44.455] [state] no hubs found
+[2026-05-29 03:00:49.455] [state] no hubs found
+[2026-05-29 03:00:52.868] [browser] [CLICK] DIV | "Most ActiveBetaACTIVEGAINERSLOSERSVALUE10255075100Min Cap: 0"
+[2026-05-29 03:00:53.835] [screenshot] → 007-click.png
+[2026-05-29 03:00:53.845] [state] no hubs found
+[2026-05-29 03:00:54.453] [state] no hubs found
+[2026-05-29 03:00:55.268] [screenshot] → 008-final.png
